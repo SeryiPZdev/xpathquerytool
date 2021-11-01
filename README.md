@@ -16,19 +16,15 @@ You can get the example.xml from: https://github.com/SeryiPZdev/xpathquerytool/b
 ````
 //employees (return type = STRING)
 ````
-![2](https://user-images.githubusercontent.com/93538515/139731894-910766e9-da04-4f08-af7b-3ac23a96e2c0.jpg)
 ````
 //age/text()  (return type = NODESET)
 ````
-![3](https://user-images.githubusercontent.com/93538515/139731907-d74379c6-1b02-4a49-8e26-b72502f41634.jpg)
 ````
 count(//employee) (return type = NUMBER)
 ````
-![4](https://user-images.githubusercontent.com/93538515/139731923-ee547239-adf8-4e76-9f02-d72c44da726f.jpg)
 ````
 /employees/employee[department="Sales"]  (return type = BOOLEAN)
 ````
-![5](https://user-images.githubusercontent.com/93538515/139731931-ee7e7fe9-61a8-4d40-85e2-a4aa2d442a2e.jpg)
 ````
 /employees/employee/department/text()  (return type = NODESET)
 ````

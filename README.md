@@ -28,8 +28,6 @@ count(//employee) (return type = NUMBER)
 ````
 /employees/employee/department/text()  (return type = NODESET)
 ````
-![6](https://user-images.githubusercontent.com/93538515/139731950-7ea4032e-d768-4dfe-90f1-8af237b0bc22.jpg)
 ````
 /employees/employee/department/text()  (return type = NODESET) and Checkbox "distinct values" checked
 ````
-![7](https://user-images.githubusercontent.com/93538515/139731957-263d8a24-3fc2-4d3a-b701-2f871b19f482.jpg)

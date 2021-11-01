@@ -9,9 +9,9 @@ There is a version for Windows x86, another for Windows x64 and the executable .
 Examples of use:
 
 You can get the example.xml from: https://github.com/SeryiPZdev/xpathquerytool/blob/main/xpathquerytool-trunk/resources/example.xml
-
+```xpath
 /employees/employee/fname/text()  (return type = NODESET)
-
+```
 //employees (return type = STRING)
 
 //age/text()  (return type = NODESET)
